@@ -1,0 +1,15 @@
+@charset "utf-8";
+/*ADMISIONES*/
+.infoAd{ margin-top: 10px;
+	background: #ffd510 ;
+	max-width: 100%;
+	color: black;
+	padding: 1%;
+}
+.contactAd{ 
+	color: #00973a;
+}
+.formulariosNA{
+	margin-bottom: 20px;
+}
+
